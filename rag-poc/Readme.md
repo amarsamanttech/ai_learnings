@@ -1,4 +1,4 @@
-# 🚀 RAG POC with Docker, Ollama, and ChromaDB
+# 🚀 RAG POC with Docker and Ollama
 
 
 This folder contains the README and instructions for the RAG (Retrieval-Augmented Generation) proof-of-concept that uses Ollama in Docker and a simple ingestion/query app.
